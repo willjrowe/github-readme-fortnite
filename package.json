@@ -1,0 +1,9 @@
+{
+  "name": "github-readme-fortnite",
+  "version": "1.0.0",
+  "author": "Will Rowe",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
